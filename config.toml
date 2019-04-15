@@ -7,7 +7,7 @@ theme = "hugo-coder"
     author = "Michael Garifullin"
     info = "PHP developer"
     description = "Michael Garifullin's personal website"
-    keywords = "blog,developer,personal"
+    keywords = "blog,developer,personal,php"
     avatarurl = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0"
 
     favicon_32 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=32"
