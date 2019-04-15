@@ -1,4 +1,47 @@
-baseURL = "http://example.org/"
+baseURL = "http://garifull.in/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-coder"
+
+[params]
+    author = "Michael Garifullin"
+    info = "PHP developer"
+    description = "Michael Garifullin's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0"
+
+    favicon_32 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=32"
+    favicon_16 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=16"
+
+    footercontent = "Enter a text here."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/bullder/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/bullder/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/bullder/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
