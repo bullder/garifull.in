@@ -1,4 +1,4 @@
-baseURL = "http://garifull.in/"
+baseURL = "https://garifull.in/"
 languageCode = "en-us"
 title = "Michael Garifullin Site"
 theme = "hugo-coder"
