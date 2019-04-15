@@ -1,6 +1,6 @@
 baseURL = "http://garifull.in/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Michael Garifullin Site"
 theme = "hugo-coder"
 
 [params]
