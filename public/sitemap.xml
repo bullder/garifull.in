@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://garifull.in/categories/</loc>
+    <loc>https://garifull.in/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://garifull.in/</loc>
+    <loc>https://garifull.in/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://garifull.in/tags/</loc>
+    <loc>https://garifull.in/tags/</loc>
     <priority>0</priority>
   </url>
   
