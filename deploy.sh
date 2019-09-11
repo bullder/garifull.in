@@ -25,5 +25,7 @@ rm -rf public/*
 echo "Generating site"
 hugo -t hugo-coder
 
+cp static/* public/
+
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
