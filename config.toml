@@ -9,7 +9,6 @@ theme = "hugo-coder"
     description = "Michael Garifullin's personal website"
     keywords = "blog,developer,personal,php"
     avatarurl = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0"
-
     favicon_32 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=32"
     favicon_16 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=16"
 
@@ -25,20 +24,45 @@ theme = "hugo-coder"
 
 # Social links
 [[params.social]]
+    name = "Email"
+    icon = "fab fa-envelope fa-2x"
+    weight = 1
+    url = "mailto:garifullin@gmail.com"
+[[params.social]]
+    name = "Skype"
+    icon = "fab fa-skype fa-2x"
+    weight = 2
+    url = "skype:michael.garifullin?call"
+[[params.social]]
+    name = "Telegram"
+    icon = "fab fa-telegram fa-2x"
+    weight = 3
+    url = "https://t.me/blldr/"
+[[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
-    weight = 1
+    weight = 4
     url = "https://github.com/bullder/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab fa-2x"
-    weight = 2
+    weight = 5
     url = "https://gitlab.com/bullder/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
+    weight = 6
     url = "https://twitter.com/bullder/"
+[[params.social]]
+    name = "VK"
+    icon = "fab fa-vk fa-2x"
+    weight = 7
+    url = "http://vk.com/garifullin"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 8
+    url = "https://www.linkedin.com/in/miсhael-garifullin-10759b8/"
 
 # Menu links
 [[menu.main]]
