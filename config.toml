@@ -57,7 +57,7 @@ theme = "hugo-coder"
     name = "VK"
     icon = "fab fa-vk fa-2x"
     weight = 7
-    url = "http://vk.com/garifullin"
+    url = "https://vk.com/garifullin"
 [[params.social]]
     name = "Linkedin"
     icon = "fab fa-linkedin fa-2x"
