@@ -13,4 +13,4 @@ RUN git remote rm origin && git remote add origin git@github.com:bullder/gariful
 RUN git submodule update --init --recursive
 RUN git worktree add -B gh-pages public origin/gh-pages
 RUN hugo
-RUN cd public && git add --all && git commit -m "Site updated" --allow-empty && git push origin gh-pages:gh-pages
+RUN cd public && git add --all && git commit -m "Site updated: `date +'%Y-%m-%d %H:%M:%S'`" --allow-empty && git push origin gh-pages:gh-pages
