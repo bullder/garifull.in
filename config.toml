@@ -13,12 +13,9 @@ theme = "hugo-coder"
     favicon_16 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=16"
 
     footercontent = ""
-
     hidecredits = false
     hidecopyright = false
-
     rtl = false
-
     math = true
     custom_css = ["css/custom.css"]
 
