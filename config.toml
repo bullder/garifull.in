@@ -12,7 +12,7 @@ theme = "hugo-coder"
     favicon_32 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=32"
     favicon_16 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=16"
 
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
