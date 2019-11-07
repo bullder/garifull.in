@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Michael Garifullin Site</title>
-    <link>https://garifull.in/</link>
-    <description>Recent content on Michael Garifullin Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://garifull.in/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Garifullin Site</title><link>https://garifull.in/</link><description>Recent content on Michael Garifullin Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2019 14:23:07 +0100</lastBuildDate><atom:link href="https://garifull.in/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://garifull.in/posts/my-first-post/</link><pubDate>Mon, 15 Apr 2019 14:23:07 +0100</pubDate><guid>https://garifull.in/posts/my-first-post/</guid><description>Do you remember how much times during you developer career you forgot to add some IDE files to .gitignore? There is a feature that could help you to get rid of creating .gitignore with common excludes for every new project. And this feature is called global .gitignore file.</description></item></channel></rss>
