@@ -65,4 +65,4 @@ theme = "hugo-coder"
 [[menu.main]]
     name = "CV"
     weight = 1
-    url  = "/cv"
+    url  = "/cv/"
