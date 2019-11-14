@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Michael Garifullin Site"
 theme = "hugo-coder"
 
+googleAnalytics = "UA-4563436-16"
+
 [params]
     author = "Michael Garifullin"
     info = "PHP developer"
