@@ -3,10 +3,9 @@ draft = false
 date = 2019-10-13T19:28:07+00:00
 title = ""
 description = ""
-slug = "" 
+slug = "cv"
 tags = []
 categories = []
-externalLink = "cv"
 series = []
 +++
 
