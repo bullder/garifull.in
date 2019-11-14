@@ -28,6 +28,7 @@ Good knowledge of PHP including the latest version. I have pretty strong skills 
 
 ## EXPERIENCE
 Senior Web Developer, Smartbox Group, Dublin, Ireland,
+promoted to Technical Leader since October 2019
 since December 2017 (1 year and 6 months)
 Working in a team which is responsible for a booking engine. Resolving cross teams integration issues. Bringing new tooling in the project (static analysis and snapshot API testing). Updating legacy code.
 
