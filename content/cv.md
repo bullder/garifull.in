@@ -11,7 +11,7 @@ series = []
 ## Michael Garifullin - Senior PHP Developer
 
 * Living in Dublin, Ireland
-* Work Permit in Ireland: Stamp 1 (CSEP)
+* Work Permit in Ireland: Stamp 4
 * Citizenship: Russia
 * 99 Saint Mary’s Road North
 * Dublin 3, D03 H0X3
