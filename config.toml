@@ -71,4 +71,4 @@ googleAnalytics = "UA-4563436-16"
 [[menu.main]]
     name = "CV.pdf"
     weight = 2
-    url  = "/michaelGarifullin_PhpDeveloper.pdf"
+    url  = "/michael_garifullin_php.pdf"
