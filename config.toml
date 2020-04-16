@@ -24,7 +24,7 @@ googleAnalytics = "UA-4563436-16"
 # Social links
 [[params.social]]
     name = "Email"
-    icon = "fab fa-envelope-o fa-2x"
+    icon = "fas fa-envelope-o fa-2x"
     weight = 1
     url = "mailto:garifullin@gmail.com"
 [[params.social]]
