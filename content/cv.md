@@ -28,13 +28,13 @@ I have no difficulties with SQL databases. I used MongoDB and Laravel for my pet
 **Technical Leader, Smartbox Group, Dublin, Ireland,**\
 *since December 2017 (3 years)*\
 I'm part of the team which is responsible for a booking service (smartbox.com/fr). I'm responsible for resolving crossteams integrations.
-Bringing new tooling in the project (static analysis and snapshot API testing). Work on the plan of modernization for the project
-**Achivements:** CI/CD migration from jenkis to gitlab. Integration of Email Marketing Platform. Led the development of new tasks that generate new business value. A lot of improvemnts for Agile-framework used in team.
+Bringing new tooling in the project (static analysis and snapshot API testing). Work on the plan of modernization for the project\
+**Achievements:** CI/CD migration from jenkis to gitlab. Integration of Email Marketing Platform. Led the development of new tasks that generate new business value. A lot of improvements for Agile-framework used in team.
 
 **Senior Web Developer, OpenSoft Technologies, Saratov, Russia,**\
 *Jan 2014 – Dec 2017 (4 years)*\
-Worked on improving online typography service overnightprints.com. Cross teams interactions. Full-stack feature oriented development.
-**Achivements:** Intergration for new payment systems. Intergration with warehouse suppliers. Developed a system for improved delivery tracking.
+Worked on improving online typography service overnightprints.com. Cross teams interactions. Full-stack feature oriented development.\
+**Achievements:** Integration for new payment systems. Integration with warehouse suppliers. Developed a system for improved delivery tracking.
 
 **Full-stack Developer, Freelance, remote,**\
 *May 2012 – Jan 2014 (1 year and 9 months)*\

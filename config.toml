@@ -68,7 +68,3 @@ googleAnalytics = "UA-4563436-16"
     name = "CV"
     weight = 1
     url  = "/cv/"
-[[menu.main]]
-    name = "CV.pdf"
-    weight = 2
-    url  = "/michael_garifullin_php.pdf"
