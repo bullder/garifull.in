@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2019-10-13T19:28:07+00:00
-description = "Michael Garifullin - Senior PHP Developer"
+description = "Michael Garifullin - Technical Leader PHP"
 slug = "cv"
 tags = []
 categories = []
@@ -13,8 +13,6 @@ series = []
 * Living in Dublin, Ireland
 * Work Permit in Ireland: Stamp 4
 * Citizenship: Russia
-* 99 Saint Mary’s Road North
-* Dublin 3, D03 H0X3
 * [+353 (85) 2209967](tel://+353852209967)
 * [mailto:garifullin@gmail.com](mailto:garifullin@gmail.com)
 * [skypeto:michael.garifullin](skype:michael.garifullin?call)
@@ -22,19 +20,21 @@ series = []
 
 
 ## SKILLS
-Good knowledge of PHP including the latest version. I have pretty strong skills working with Symfony. I have no difficulties with SQL databases. I used MongoDB and Laravel when developing my pet projects. Rich experience of testing code base in functional and unit way. Good understanding of service architecture in a modern way (async, queue, microservices).
+Good experience with PHP including the latest version. I have pretty strong skills working with Symfony.
+I have no difficulties with SQL databases. I used MongoDB and Laravel for my pet projects. Rich experience of testing code base in functional and unit way. Good understanding of service architecture in a modern way (async, queue, microservices).
+
 
 ## EXPERIENCE
-**Senior Web Developer, Smartbox Group, Dublin, Ireland,**\
-*promoted to Technical Leader since October 2019*\
+**Technical Leader, Smartbox Group, Dublin, Ireland,**\
 *since December 2017 (3 years)*\
-Working in a team which is responsible for a booking engine (smartbox.com/fr). Resolving cross teams integration issues.
-Bringing new tooling in the project (static analysis and snapshot API testing). Updating legacy code.
+I'm part of the team which is responsible for a booking service (smartbox.com/fr). I'm responsible for resolving crossteams integrations.
+Bringing new tooling in the project (static analysis and snapshot API testing). Work on the plan of modernization for the project
+**Achivements:** CI/CD migration from jenkis to gitlab. Integration of Email Marketing Platform. Led the development of new tasks that generate new business value. A lot of improvemnts for Agile-framework used in team.
 
 **Senior Web Developer, OpenSoft Technologies, Saratov, Russia,**\
 *Jan 2014 – Dec 2017 (4 years)*\
-Worked on improving online typography service overnightprints.com. Cross teams interactions.
-Full-stack feature oriented development.
+Worked on improving online typography service overnightprints.com. Cross teams interactions. Full-stack feature oriented development.
+**Achivements:** Intergration for new payment systems. Intergration with warehouse suppliers. Developed a system for improved delivery tracking.
 
 **Full-stack Developer, Freelance, remote,**\
 *May 2012 – Jan 2014 (1 year and 9 months)*\
