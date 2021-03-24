@@ -69,8 +69,11 @@ I am a person who can blend seamlessly in with others. Open-minded to the new te
 I like to review code and discuss opportunities for improvements with colleagues. 
 Love what I am doing. I’m addicted to clean code with good test coverage. 
 I really like to have stable bulletproof code which is delivering with CI/CD.
+Mentoring for me is a tool to share and empower my own skill.
 
 ## ADDITIONAL INFORMATION
 • **Cultural Experiences**: I really enjoy the time to research new technologies which might be useful for a project. I think that the lessons learned during my daily duties helps me a lot with understanding how to growth my kids as worthy people.
-• **Social Impact**: I love to participate in the life of the local community and assist with organisation of cleaning our area.
-• **Personal Interests**: A huge fan of jogging, bicyclist
+
+• **Social Impact**: I love to participate in the life of the local community and assist with organisation of cleaning out days of our area.
+
+• **Personal Interests**: A huge fan of jogging, bicyclist.
