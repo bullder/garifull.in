@@ -1,6 +1,6 @@
-baseURL = "https://garifull.in/"
+    baseURL = "https://garifull.in/"
 languageCode = "en-us"
-title = "Michael Garifullin Site"
+title = "Michael Garifullin"
 theme = "hugo-coder"
 
 googleAnalytics = "UA-4563436-16"
@@ -27,11 +27,6 @@ googleAnalytics = "UA-4563436-16"
     icon = "fas fa-envelope-o fa-2x"
     weight = 1
     url = "mailto:garifullin@gmail.com"
-[[params.social]]
-    name = "Skype"
-    icon = "fab fa-skype fa-2x"
-    weight = 2
-    url = "skype:michael.garifullin?call"
 [[params.social]]
     name = "Telegram"
     icon = "fab fa-telegram fa-2x"
