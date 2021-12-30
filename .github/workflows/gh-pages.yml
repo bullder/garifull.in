@@ -28,7 +28,7 @@ jobs:
       uses: fifsky/html-to-pdf-action@master
       with:
         htmlFile: ./cv/index.html
-        outputFile: ./cv.pdf
+        outputFile: ./public/cv.pdf
         pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
