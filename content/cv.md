@@ -27,11 +27,11 @@ Good understanding of service architecture in a modern way (async, queues, micro
 I believe that Clean Code is the way to achieve clean and bulletproof solutions.  
 
 ## EXPERIENCE
-**Technical Leader, Smartbox Group, Dublin, Ireland,** *since December 2017 (3 years)*\
+**Technical Leader, Smartbox Group, Dublin, Ireland,** *since December 2017 (4 years)*\
 I'm part of the team which is responsible for a booking service (smartbox.com/fr).
 I'm responsible for resolving cross teams integrations.
 Presented few concepts for improving our technological stack.
-Brought new tooling in the project (static analysis and snapshot API testing). Work on the plan of modernization for the project\
+Brought new tooling in the project (static analysis and snapshot API testing). Worked on the roadmap of modernization for the project\
 **Achievements:** CI/CD migration from jenkis to gitlab. Integration of Email Marketing Platform. Led the development of new tasks that generate new business value. A lot of improvements for Agile-framework used in team.
 
 **Senior PHP Developer, OpenSoft Technologies, Saratov, Russia,** *Jan 2014 – Dec 2017 (4 years)*\
