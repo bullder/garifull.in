@@ -20,6 +20,9 @@ jobs:
       with:
         hugo-version: 'latest'
 
+    - name: Version
+      run: hugo version
+
     - name: Build
       run: hugo --minify
 
