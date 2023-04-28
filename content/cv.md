@@ -27,7 +27,7 @@ Good understanding of service architecture in a modern way (async, queues, micro
 I believe that Clean Code is the way to achieve clean and bulletproof solutions.  
 
 ## EXPERIENCE
-**Technical Leader, Smartbox Group, Dublin, Ireland,** *since December 2017 (5 years)*\
+**Technical Leader, Smartbox Group, Dublin, Ireland,** *since December 2017 (5 years and 5 months)*\
 I'm part of the team which is responsible for a booking service (smartbox.com/fr).
 I'm responsible for resolving cross teams integrations.
 Presented few concepts for improving our technological stack.
