@@ -8,7 +8,7 @@ categories = []
 series = []
 +++
 
-## Michael Garifullin - Technical Lead PHP Developer
+## Michael Garifullin - Technical Lead
 
 Living in Dublin, Ireland, Work Permit in Ireland: Stamp 4 (no work permit required), Citizenship: Russia
 
@@ -17,7 +17,7 @@ Living in Dublin, Ireland, Work Permit in Ireland: Stamp 4 (no work permit requi
 
 
 ## SKILLS
-I'm fluent with PHP including the modern changes.
+I'm fluent with modern web development process.
 SQL databases optimisation is a very usual thing for me.
 I have no friction to participate in improvements related to the frontend parts of project written in javascript.
 I'm familiar with Vue.js and React.
@@ -27,14 +27,14 @@ Good understanding of service architecture in a modern way (async, queues, micro
 I believe that Clean Code is the way to achieve clean and bulletproof solutions.  
 
 ## EXPERIENCE
-**Technical Leader, Smartbox Group, Dublin, Ireland,** *since December 2017 (5 years and 5 months)*\
+**Technical Leader, Smartbox Group, Dublin, Ireland,** *since December 2017 (5 years and 6 months)*\
 I'm part of the team which is responsible for a booking service (smartbox.com/fr).
 I'm responsible for resolving cross teams integrations.
 Presented few concepts for improving our technological stack.
 Brought new tooling in the project (static analysis and snapshot API testing). Worked on the roadmap of modernization for the project\
 **Achievements:** CI/CD migration from jenkis to gitlab. Integration of Email Marketing Platform. Led the development of new tasks that generate new business value. A lot of improvements for Agile-framework used in team.
 
-**Senior PHP Developer, OpenSoft Technologies, Saratov, Russia,** *Jan 2014 – Dec 2017 (4 years)*\
+**Senior Backend Developer, OpenSoft Technologies, Saratov, Russia,** *Jan 2014 – Dec 2017 (4 years)*\
 Worked on improving online typography service overnightprints.com. Cross teams interactions. Full stack feature oriented development.\
 **Achievements:** Integrations for new payment systems. Integration with warehouse suppliers. Developed a system for improved delivery tracking.
 
@@ -56,7 +56,7 @@ Management of the development processes at all stages of production for a small 
 Maintaining infrastructure (50+ workstations and 5 servers).
 Database services. Support FreeBSD servers. Accountant services on Windows 2003 Server DBMS MS SQL.
 
-**PHP Developer, Narva Consulting LLC, remote,** *Aug 2004 – May 2005 (10 months)*\
+**Software Developer, Narva Consulting LLC, remote,** *Aug 2004 – May 2005 (10 months)*\
 Refactoring a corporate site. Development tools intra-corporate information exchange between remote agents.
 
 ## EDUCATION
