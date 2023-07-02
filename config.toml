@@ -1,4 +1,4 @@
-    baseURL = "https://garifull.in/"
+baseURL = "https://garifull.in/"
 languageCode = "en-us"
 title = "Michael Garifullin"
 theme = "hugo-coder"
@@ -7,9 +7,9 @@ googleAnalytics = "UA-4563436-16"
 
 [params]
     author = "Michael Garifullin"
-    info = "PHP developer"
+    info = "Tech Lead"
     description = "Michael Garifullin's personal website"
-    keywords = "blog,developer,personal,php"
+    keywords = "blog,developer,personal"
     avatarurl = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0"
     favicon_32 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=32"
     favicon_16 = "https://s.gravatar.com/avatar/84f1465250bf21fcd8709e654ee944d0&s=16"
