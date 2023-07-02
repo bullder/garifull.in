@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2019-10-13T19:28:07+00:00
-description = "Michael Garifullin - Technical Leader PHP"
+description = "Michael Garifullin - Technical Leader"
 slug = "cv"
 tags = []
 categories = []
