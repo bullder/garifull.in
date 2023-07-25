@@ -483,3 +483,12 @@ img{
 .footer a{
     color:#1565c0
 }
+
+h3 em {
+    font-weight: lighter;
+    font-size: 70%;
+}
+
+h3 em:before {
+    content: "\A";
+}
