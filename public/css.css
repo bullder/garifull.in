@@ -484,11 +484,16 @@ img{
     color:#1565c0
 }
 
+h3 span {
+    color: #444444;
+}
+
 h3 em {
     font-weight: lighter;
     font-size: 70%;
 }
 
 h3 em:before {
-    content: "\A";
+    content: "";
+    display: block;
 }
