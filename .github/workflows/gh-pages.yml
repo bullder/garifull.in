@@ -21,6 +21,13 @@ jobs:
         outputFile: ./public/cv.pdf
         pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
 
+    - name: Generate pdf pm
+      uses: fifsky/html-to-pdf-action@master
+      with:
+        htmlFile: ./public/cv1/index.html
+        outputFile: ./public/cvpm.pdf
+        pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
