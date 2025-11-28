@@ -497,3 +497,9 @@ h3 em:before {
     content: "";
     display: block;
 }
+
+@media print {
+    .no-print {
+        display: none !important;
+    }
+}
