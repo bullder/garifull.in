@@ -21,7 +21,7 @@ jobs:
         outputFile: ./public/cv.pdf
         pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
 
-    - name: Generate pdf pm
+    - name: Generate pdf lead
       uses: fifsky/html-to-pdf-action@master
       with:
         htmlFile: ./public/cv/mike.html
